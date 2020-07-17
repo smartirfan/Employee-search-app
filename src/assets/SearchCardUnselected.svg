@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="75" height="46" viewBox="0 0 75 46">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="63" height="31" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="CardView" transform="translate(-1512 -472)">
+    <g id="Rectangle_15" data-name="Rectangle 15" transform="translate(1512 472)" fill="#fdfdfd" stroke="#707070" stroke-width="1">
+      <rect width="75" height="46" stroke="none"/>
+      <rect x="0.5" y="0.5" width="74" height="45" fill="none"/>
+    </g>
+    <g id="Repeat_Grid_1" data-name="Repeat Grid 1" transform="translate(1518 479)" clip-path="url(#clip-path)">
+      <g transform="translate(-1518 -477)">
+        <g id="Rectangle_16" data-name="Rectangle 16" transform="translate(1518 477)" fill="#fdfdfd" stroke="#707070" stroke-width="1">
+          <rect width="19" height="12" stroke="none"/>
+          <rect x="0.5" y="0.5" width="18" height="11" fill="none"/>
+        </g>
+      </g>
+      <g transform="translate(-1496 -477)">
+        <g id="Rectangle_16-2" data-name="Rectangle 16" transform="translate(1518 477)" fill="#fdfdfd" stroke="#707070" stroke-width="1">
+          <rect width="19" height="12" stroke="none"/>
+          <rect x="0.5" y="0.5" width="18" height="11" fill="none"/>
+        </g>
+      </g>
+      <g transform="translate(-1474 -477)">
+        <g id="Rectangle_16-3" data-name="Rectangle 16" transform="translate(1518 477)" fill="#fdfdfd" stroke="#707070" stroke-width="1">
+          <rect width="19" height="12" stroke="none"/>
+          <rect x="0.5" y="0.5" width="18" height="11" fill="none"/>
+        </g>
+      </g>
+      <g transform="translate(-1518 -459)">
+        <g id="Rectangle_16-4" data-name="Rectangle 16" transform="translate(1518 477)" fill="#fdfdfd" stroke="#707070" stroke-width="1">
+          <rect width="19" height="12" stroke="none"/>
+          <rect x="0.5" y="0.5" width="18" height="11" fill="none"/>
+        </g>
+      </g>
+      <g transform="translate(-1496 -459)">
+        <g id="Rectangle_16-5" data-name="Rectangle 16" transform="translate(1518 477)" fill="#fdfdfd" stroke="#707070" stroke-width="1">
+          <rect width="19" height="12" stroke="none"/>
+          <rect x="0.5" y="0.5" width="18" height="11" fill="none"/>
+        </g>
+      </g>
+      <g transform="translate(-1474 -459)">
+        <g id="Rectangle_16-6" data-name="Rectangle 16" transform="translate(1518 477)" fill="#fdfdfd" stroke="#707070" stroke-width="1">
+          <rect width="19" height="12" stroke="none"/>
+          <rect x="0.5" y="0.5" width="18" height="11" fill="none"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

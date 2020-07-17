@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="75" height="46" viewBox="0 0 75 46">
+    <defs>
+        <clipPath id="prefix__clip-path">
+            <path d="M0 0H63V33H0z" class="prefix__cls-1"/>
+        </clipPath>
+        <style>
+            .prefix__cls-1{fill:none}.prefix__cls-4{stroke:#707070;fill:#fff}.prefix__cls-5{stroke:none}
+        </style>
+    </defs>
+    <g id="prefix__CardView" transform="translate(-1513 -472)">
+        <g id="prefix__Group_48" data-name="Group 48" transform="translate(-7253 1144.748)">
+            <g id="prefix__Rectangle_15" data-name="Rectangle 15" style="stroke:#707070;fill:#d6dcdd">
+                <path d="M0 0H75V46H0z" class="prefix__cls-5" transform="translate(8766 -672.748)"/>
+                <path d="M0.5 0.5H74.5V45.5H0.5z" class="prefix__cls-1" transform="translate(8766 -672.748)"/>
+            </g>
+        </g>
+        <g id="prefix__Repeat_Grid_1" data-name="Repeat Grid 1" transform="translate(1520 480)">
+            <g transform="translate(-1518 -477)">
+                <g id="prefix__Rectangle_16" class="prefix__cls-4" data-name="Rectangle 16">
+                    <path d="M0 0H13V14H0z" class="prefix__cls-5" transform="translate(1518 477)"/>
+                    <path d="M0.5 0.5H12.5V13.5H0.5z" class="prefix__cls-1" transform="translate(1518 477)"/>
+                </g>
+            </g>
+            <g transform="translate(-1502 -477)">
+                <g id="prefix__Rectangle_16-2" class="prefix__cls-4" data-name="Rectangle 16">
+                    <path d="M0 0H13V14H0z" class="prefix__cls-5" transform="translate(1518 477)"/>
+                    <path d="M0.5 0.5H12.5V13.5H0.5z" class="prefix__cls-1" transform="translate(1518 477)"/>
+                </g>
+            </g>
+            <g transform="translate(-1486 -477)">
+                <g id="prefix__Rectangle_16-3" class="prefix__cls-4" data-name="Rectangle 16">
+                    <path d="M0 0H13V14H0z" class="prefix__cls-5" transform="translate(1518 477)"/>
+                    <path d="M0.5 0.5H12.5V13.5H0.5z" class="prefix__cls-1" transform="translate(1518 477)"/>
+                </g>
+            </g>
+            <g transform="translate(-1470 -477)">
+                <g id="prefix__Rectangle_16-4" class="prefix__cls-4" data-name="Rectangle 16">
+                    <path d="M0 0H13V14H0z" class="prefix__cls-5" transform="translate(1518 477)"/>
+                    <path d="M0.5 0.5H12.5V13.5H0.5z" class="prefix__cls-1" transform="translate(1518 477)"/>
+                </g>
+            </g>
+            <g transform="translate(-1518 -460)">
+                <g id="prefix__Rectangle_16-5" class="prefix__cls-4" data-name="Rectangle 16">
+                    <path d="M0 0H13V14H0z" class="prefix__cls-5" transform="translate(1518 477)"/>
+                    <path d="M0.5 0.5H12.5V13.5H0.5z" class="prefix__cls-1" transform="translate(1518 477)"/>
+                </g>
+            </g>
+            <g transform="translate(-1502 -460)">
+                <g id="prefix__Rectangle_16-6" class="prefix__cls-4" data-name="Rectangle 16">
+                    <path d="M0 0H13V14H0z" class="prefix__cls-5" transform="translate(1518 477)"/>
+                    <path d="M0.5 0.5H12.5V13.5H0.5z" class="prefix__cls-1" transform="translate(1518 477)"/>
+                </g>
+            </g>
+            <g transform="translate(-1486 -460)">
+                <g id="prefix__Rectangle_16-7" class="prefix__cls-4" data-name="Rectangle 16">
+                    <path d="M0 0H13V14H0z" class="prefix__cls-5" transform="translate(1518 477)"/>
+                    <path d="M0.5 0.5H12.5V13.5H0.5z" class="prefix__cls-1" transform="translate(1518 477)"/>
+                </g>
+            </g>
+            <g transform="translate(-1470 -460)">
+                <g id="prefix__Rectangle_16-8" class="prefix__cls-4" data-name="Rectangle 16">
+                    <path d="M0 0H13V14H0z" class="prefix__cls-5" transform="translate(1518 477)"/>
+                    <path d="M0.5 0.5H12.5V13.5H0.5z" class="prefix__cls-1" transform="translate(1518 477)"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

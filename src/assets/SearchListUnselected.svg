@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="75" height="46" viewBox="0 0 75 46">
+    <defs>
+        <style>
+            .prefix__cls-2{stroke:#707070;fill:none}
+        </style>
+    </defs>
+    <g id="prefix__ListView" transform="translate(-1601 -472)">
+        <g id="prefix__Group_49" data-name="Group 49" transform="translate(-7163 1144.748)">
+            <g id="prefix__Rectangle_15" data-name="Rectangle 15" style="stroke:#707070;fill:#fff">
+                <path d="M0 0H75V46H0z" style="stroke:none" transform="translate(8764 -672.748)"/>
+                <path d="M0.5 0.5H74.5V45.5H0.5z" style="fill:none" transform="translate(8764 -672.748)"/>
+            </g>
+        </g>
+        <path id="prefix__Line_5" d="M0 0L63 0" class="prefix__cls-2" data-name="Line 5" transform="translate(1606.5 481.5)"/>
+        <path id="prefix__Line_6" d="M0 0L63 0" class="prefix__cls-2" data-name="Line 6" transform="translate(1606.5 488.5)"/>
+        <path id="prefix__Line_7" d="M0 0L63 0" class="prefix__cls-2" data-name="Line 7" transform="translate(1606.5 495.5)"/>
+        <path id="prefix__Line_8" d="M0 0L63 0" class="prefix__cls-2" data-name="Line 8" transform="translate(1606.5 502.5)"/>
+        <path id="prefix__Line_9" d="M0 0L63 0" class="prefix__cls-2" data-name="Line 9" transform="translate(1606.5 509.5)"/>
+    </g>
+</svg>
